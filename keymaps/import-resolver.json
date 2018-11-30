@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "capslock": "import-resolver:complete",
+    "insert": "import-resolver:open"
+  }
+}

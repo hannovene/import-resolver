@@ -1,0 +1,20 @@
+{
+  "name": "import-resolver",
+  "main": "./lib/import-resolver",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "import-resolver:complete",
+    "atom-workspace": "import-resolver:open"
+  },
+  "repository": "https://github.com/atom/import-resolver",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "underscore-plus": "^1.6.8"
+  }
+}

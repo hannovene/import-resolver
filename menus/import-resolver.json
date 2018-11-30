@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle import-resolver",
+        "command": "import-resolver:complete"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "import-resolver",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "import-resolver:complete"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
