@@ -8,7 +8,7 @@
     "atom-workspace": "import-resolver:complete",
     "atom-workspace": "import-resolver:open"
   },
-  "repository": "https://github.com/atom/import-resolver",
+  "repository": "https://github.com/hannovene/import-resolver",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

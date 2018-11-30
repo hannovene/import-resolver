@@ -1,3 +1,3 @@
 # Import resolver
 
-Todo
+Simple Atom package to resolve imports with one keypress
