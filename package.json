@@ -1,12 +1,14 @@
 {
-  "name": "import-resolver",
+  "name": "Import Resolver",
   "main": "./lib/import-resolver",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Resolves MyList => '../my/my-list.vue'",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "import-resolver:complete",
-    "atom-workspace": "import-resolver:open"
+    "atom-workspace": [
+      "import-resolver:complete",
+      "import-resolver:open"
+    ]
   },
   "repository": "https://github.com/hannovene/import-resolver",
   "license": "MIT",
